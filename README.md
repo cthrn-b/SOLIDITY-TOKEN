@@ -10,7 +10,7 @@ This program is a simple smart contract written in Solidity, a programming langu
 
 ### Installing
 
-You can download my file here in Github (https://github.com/c-bugarin/Solidity-Assessment/tree/main)
+You can download my file here in Github (https://github.com/cthrn-b/SOLIDITY-TOKEN/tree/main)
 
 ### Executing program
 
